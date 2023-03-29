@@ -1,2 +1,2 @@
-# monitoring-nagios-oscp-lynx
-Nagios OSCP command to send data from IoT Open to Nagios or Nagios related monitoring solution.
+# monitoring-nagios-ocsp-lynx
+Nagios OCSP command to send data from IoT Open to Nagios or Nagios related monitoring solution.
